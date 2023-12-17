@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @EyasuAK
+- 👋 Hi, I’m Eyasu
 - 🌱 I’m currently learning ReactJS.
